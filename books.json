@@ -1,0 +1,3608 @@
+[
+  {
+    "id": 1,
+    "title": "The Hunger Games",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.34,
+    "ratingsCount": 4780653,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780439023481",
+    "goodreadsId": "2767052",
+    "cover": "https://images.gr-assets.com/books/1447303603m/2767052.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 1997,
+    "language": "English",
+    "rating": 4.44,
+    "ratingsCount": 4602479,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439554930",
+    "goodreadsId": "3",
+    "cover": "https://images.gr-assets.com/books/1474154022m/3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Twilight",
+    "authors": [
+      "Stephenie Meyer"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 3.57,
+    "ratingsCount": 3866839,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316015844",
+    "goodreadsId": "41865",
+    "cover": "https://images.gr-assets.com/books/1361039443m/41865.jpg"
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "firstPublishedYear": 1960,
+    "language": "English",
+    "rating": 4.25,
+    "ratingsCount": 3198671,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780061120084",
+    "goodreadsId": "2657",
+    "cover": "https://images.gr-assets.com/books/1361975680m/2657.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "firstPublishedYear": 1925,
+    "language": "English",
+    "rating": 3.89,
+    "ratingsCount": 2683664,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780743273565",
+    "goodreadsId": "4671",
+    "cover": "https://images.gr-assets.com/books/1490528560m/4671.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Fault in Our Stars",
+    "authors": [
+      "John Green"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.26,
+    "ratingsCount": 2346404,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780525478812",
+    "goodreadsId": "11870085",
+    "cover": "https://images.gr-assets.com/books/1360206420m/11870085.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "firstPublishedYear": 1937,
+    "language": "English",
+    "rating": 4.25,
+    "ratingsCount": 2071616,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780618968633",
+    "goodreadsId": "5907",
+    "cover": "https://images.gr-assets.com/books/1372847500m/5907.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "firstPublishedYear": 1951,
+    "language": "English",
+    "rating": 3.79,
+    "ratingsCount": 2044241,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780316769488",
+    "goodreadsId": "5107",
+    "cover": "https://images.gr-assets.com/books/1398034300m/5107.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Angels & Demons",
+    "authors": [
+      "Dan Brown"
+    ],
+    "firstPublishedYear": 2000,
+    "language": "English",
+    "rating": 3.85,
+    "ratingsCount": 2001311,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9781416524793",
+    "goodreadsId": "960",
+    "cover": "https://images.gr-assets.com/books/1303390735m/960.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "firstPublishedYear": 1813,
+    "language": "English",
+    "rating": 4.24,
+    "ratingsCount": 2035490,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780141439518",
+    "goodreadsId": "1885",
+    "cover": "https://images.gr-assets.com/books/1320399351m/1885.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Kite Runner",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 4.26,
+    "ratingsCount": 1813044,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781594631931",
+    "goodreadsId": "77203",
+    "cover": "https://images.gr-assets.com/books/1484565687m/77203.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Divergent",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.24,
+    "ratingsCount": 1903563,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780062024039",
+    "goodreadsId": "13335037",
+    "cover": "https://images.gr-assets.com/books/1328559506m/13335037.jpg"
+  },
+  {
+    "id": 13,
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "firstPublishedYear": 1949,
+    "language": "English",
+    "rating": 4.14,
+    "ratingsCount": 1956832,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780451524935",
+    "goodreadsId": "5470",
+    "cover": "https://images.gr-assets.com/books/1348990566m/5470.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Animal Farm",
+    "authors": [
+      "George Orwell"
+    ],
+    "firstPublishedYear": 1945,
+    "language": "English",
+    "rating": 3.87,
+    "ratingsCount": 1881700,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780451526342",
+    "goodreadsId": "7613",
+    "cover": "https://images.gr-assets.com/books/1424037542m/7613.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Diary of a Young Girl",
+    "authors": [
+      "Anne Frank"
+    ],
+    "firstPublishedYear": 1947,
+    "language": "English",
+    "rating": 4.1,
+    "ratingsCount": 1972666,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780553296983",
+    "goodreadsId": "48855",
+    "cover": "https://images.gr-assets.com/books/1358276407m/48855.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.11,
+    "ratingsCount": 1808403,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780307454546",
+    "goodreadsId": "2429135",
+    "cover": "https://images.gr-assets.com/books/1327868566m/2429135.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Catching Fire",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.3,
+    "ratingsCount": 1831039,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780439023498",
+    "goodreadsId": "6148028",
+    "cover": "https://images.gr-assets.com/books/1358273780m/6148028.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 1999,
+    "language": "English",
+    "rating": 4.53,
+    "ratingsCount": 1832823,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439655484",
+    "goodreadsId": "5",
+    "cover": "https://images.gr-assets.com/books/1499277281m/5.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Fellowship of the Ring",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "firstPublishedYear": 1954,
+    "language": "English",
+    "rating": 4.34,
+    "ratingsCount": 1766803,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780618574992",
+    "goodreadsId": "34",
+    "cover": "https://images.gr-assets.com/books/1298411339m/34.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Mockingjay",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.03,
+    "ratingsCount": 1719760,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780439023511",
+    "goodreadsId": "7260188",
+    "cover": "https://images.gr-assets.com/books/1358275419m/7260188.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 4.46,
+    "ratingsCount": 1735368,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439358071",
+    "goodreadsId": "2",
+    "cover": "https://images.gr-assets.com/books/1387141547m/2.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Lovely Bones",
+    "authors": [
+      "Alice Sebold"
+    ],
+    "firstPublishedYear": 2002,
+    "language": "English",
+    "rating": 3.77,
+    "ratingsCount": 1605173,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316168819",
+    "goodreadsId": "12232938",
+    "cover": "https://images.gr-assets.com/books/1457810586m/12232938.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 1998,
+    "language": "English",
+    "rating": 4.37,
+    "ratingsCount": 1779331,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439064866",
+    "goodreadsId": "15881",
+    "cover": "https://images.gr-assets.com/books/1474169725m/15881.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 2000,
+    "language": "English",
+    "rating": 4.53,
+    "ratingsCount": 1753043,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439139601",
+    "goodreadsId": "6",
+    "cover": "https://images.gr-assets.com/books/1361482611m/6.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.61,
+    "ratingsCount": 1746574,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780545010221",
+    "goodreadsId": "136251",
+    "cover": "https://images.gr-assets.com/books/1474171184m/136251.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The Da Vinci Code",
+    "authors": [
+      "Dan Brown"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 3.79,
+    "ratingsCount": 1447148,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780307474278",
+    "goodreadsId": "968",
+    "cover": "https://images.gr-assets.com/books/1303252999m/968.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.54,
+    "ratingsCount": 1678823,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780439785969",
+    "goodreadsId": "1",
+    "cover": "https://images.gr-assets.com/books/1361039191m/1.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Lord of the Flies",
+    "authors": [
+      "William Golding"
+    ],
+    "firstPublishedYear": 1954,
+    "language": "English",
+    "rating": 3.64,
+    "ratingsCount": 1605019,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780399501487",
+    "goodreadsId": "7624",
+    "cover": "https://images.gr-assets.com/books/1327869409m/7624.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Romeo and Juliet",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "firstPublishedYear": 1595,
+    "language": "English",
+    "rating": 3.73,
+    "ratingsCount": 1628519,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780743477116",
+    "goodreadsId": "18135",
+    "cover": "https://images.gr-assets.com/books/1327872146m/18135.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Gone Girl",
+    "authors": [
+      "Gillian Flynn"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.03,
+    "ratingsCount": 512475,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780307588371",
+    "goodreadsId": "8442457",
+    "cover": "https://images.gr-assets.com/books/1339602131m/8442457.jpg"
+  },
+  {
+    "id": 31,
+    "title": "The Help",
+    "authors": [
+      "Kathryn Stockett"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.45,
+    "ratingsCount": 1531753,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780425232200",
+    "goodreadsId": "4667024",
+    "cover": "https://images.gr-assets.com/books/1346100365m/4667024.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Of Mice and Men",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "firstPublishedYear": 1937,
+    "language": "English",
+    "rating": 3.84,
+    "ratingsCount": 1467496,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780142000670",
+    "goodreadsId": "890",
+    "cover": "https://images.gr-assets.com/books/1437235233m/890.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Fifty Shades of Grey",
+    "authors": [
+      "E.L. James"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 3.67,
+    "ratingsCount": 1338493,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780345803481",
+    "goodreadsId": "10818853",
+    "cover": "https://images.gr-assets.com/books/1385207843m/10818853.jpg"
+  },
+  {
+    "id": 34,
+    "title": "The Alchemist",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "firstPublishedYear": 1988,
+    "language": "English",
+    "rating": 3.82,
+    "ratingsCount": 1299566,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780062315007",
+    "goodreadsId": "865",
+    "cover": "https://images.gr-assets.com/books/1483412266m/865.jpg"
+  },
+  {
+    "id": 35,
+    "title": "The Giver",
+    "authors": [
+      "Lois Lowry"
+    ],
+    "firstPublishedYear": 1993,
+    "language": "English",
+    "rating": 4.12,
+    "ratingsCount": 1296825,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780385732550",
+    "goodreadsId": "3636",
+    "cover": "https://images.gr-assets.com/books/1342493368m/3636.jpg"
+  },
+  {
+    "id": 36,
+    "title": "The Lion, the Witch and the Wardrobe",
+    "authors": [
+      "C.S. Lewis"
+    ],
+    "firstPublishedYear": 1950,
+    "language": "English",
+    "rating": 4.19,
+    "ratingsCount": 1531800,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780064404990",
+    "goodreadsId": "100915",
+    "cover": "https://images.gr-assets.com/books/1353029077m/100915.jpg"
+  },
+  {
+    "id": 37,
+    "title": "The Time Traveler's Wife",
+    "authors": [
+      "Audrey Niffenegger"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 3.95,
+    "ratingsCount": 746287,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780156029438",
+    "goodreadsId": "14050",
+    "cover": "https://images.gr-assets.com/books/1437728815m/14050.jpg"
+  },
+  {
+    "id": 38,
+    "title": "A Game of Thrones",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 4.45,
+    "ratingsCount": 1319204,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553593716",
+    "goodreadsId": "13496",
+    "cover": "https://images.gr-assets.com/books/1436732693m/13496.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Eat, Pray, Love",
+    "authors": [
+      "Elizabeth Gilbert"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 3.51,
+    "ratingsCount": 1181647,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780143038412",
+    "goodreadsId": "19501",
+    "cover": "https://images.gr-assets.com/books/1503066414m/19501.jpg"
+  },
+  {
+    "id": 40,
+    "title": "The Lightning Thief",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.23,
+    "ratingsCount": 1366265,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780786838653",
+    "goodreadsId": "28187",
+    "cover": "https://images.gr-assets.com/books/1400602609m/28187.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Jane Eyre",
+    "authors": [
+      "Charlotte Brontë"
+    ],
+    "firstPublishedYear": 1847,
+    "language": "English",
+    "rating": 4.1,
+    "ratingsCount": 1198557,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780141441146",
+    "goodreadsId": "10210",
+    "cover": "https://images.gr-assets.com/books/1327867269m/10210.jpg"
+  },
+  {
+    "id": 42,
+    "title": "The Notebook",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 1053403,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780446605236",
+    "goodreadsId": "15931",
+    "cover": "https://images.gr-assets.com/books/1385738917m/15931.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Life of Pi",
+    "authors": [
+      "Yann Martel"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 1003228,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780156027328",
+    "goodreadsId": "4214",
+    "cover": "https://images.gr-assets.com/books/1320562005m/4214.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Water for Elephants",
+    "authors": [
+      "Sara Gruen"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 4.07,
+    "ratingsCount": 1068146,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781565125605",
+    "goodreadsId": "43641",
+    "cover": "https://images.gr-assets.com/books/1494428973m/43641.jpg"
+  },
+  {
+    "id": 45,
+    "title": "The Book Thief",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.36,
+    "ratingsCount": 1159741,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780375842207",
+    "goodreadsId": "19063",
+    "cover": "https://images.gr-assets.com/books/1390053681m/19063.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "firstPublishedYear": 1953,
+    "language": "English",
+    "rating": 3.97,
+    "ratingsCount": 570498,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9781451678180",
+    "goodreadsId": "4381",
+    "cover": "https://images.gr-assets.com/books/1351643740m/4381.jpg"
+  },
+  {
+    "id": 47,
+    "title": "New Moon",
+    "authors": [
+      "Stephenie Meyer"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 3.52,
+    "ratingsCount": 1149630,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316024969",
+    "goodreadsId": "49041",
+    "cover": "https://images.gr-assets.com/books/1361039440m/49041.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Where the Sidewalk Ends",
+    "authors": [
+      "Shel Silverstein"
+    ],
+    "firstPublishedYear": 1974,
+    "language": "English",
+    "rating": 4.29,
+    "ratingsCount": 1016888,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780060256532",
+    "goodreadsId": "30119",
+    "cover": "https://images.gr-assets.com/books/1168052448m/30119.jpg"
+  },
+  {
+    "id": 49,
+    "title": "City of Bones",
+    "authors": [
+      "Cassandra Clare"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.12,
+    "ratingsCount": 1154031,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781416914280",
+    "goodreadsId": "256683",
+    "cover": "https://images.gr-assets.com/books/1432730315m/256683.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Eclipse",
+    "authors": [
+      "Stephenie Meyer"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 3.69,
+    "ratingsCount": 1134511,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316160209",
+    "goodreadsId": "428263",
+    "cover": "https://images.gr-assets.com/books/1361038355m/428263.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Eragon",
+    "authors": [
+      "Christopher Paolini"
+    ],
+    "firstPublishedYear": 2002,
+    "language": "English",
+    "rating": 3.86,
+    "ratingsCount": 1104021,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780375826696",
+    "goodreadsId": "113436",
+    "cover": "https://images.gr-assets.com/books/1366212852m/113436.jpg"
+  },
+  {
+    "id": 52,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "firstPublishedYear": 1979,
+    "language": "English",
+    "rating": 4.2,
+    "ratingsCount": 936782,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780345391803",
+    "goodreadsId": "11",
+    "cover": "https://images.gr-assets.com/books/1327656754m/11.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Brave New World",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "firstPublishedYear": 1932,
+    "language": "English",
+    "rating": 3.97,
+    "ratingsCount": 1022601,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780060850524",
+    "goodreadsId": "5129",
+    "cover": "https://images.gr-assets.com/books/1487389574m/5129.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Breaking Dawn",
+    "authors": [
+      "Stephenie Meyer"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 3.7,
+    "ratingsCount": 1070245,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316067922",
+    "goodreadsId": "1162543",
+    "cover": "https://images.gr-assets.com/books/1361039438m/1162543.jpg"
+  },
+  {
+    "id": 55,
+    "title": "The Secret Life of Bees",
+    "authors": [
+      "Sue Monk Kidd"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 4.01,
+    "ratingsCount": 916189,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780142001745",
+    "goodreadsId": "37435",
+    "cover": "https://images.gr-assets.com/books/1473454532m/37435.jpg"
+  },
+  {
+    "id": 56,
+    "title": "The Adventures of Huckleberry Finn",
+    "authors": [
+      "Mark Twain"
+    ],
+    "firstPublishedYear": 1884,
+    "language": "English",
+    "rating": 3.8,
+    "ratingsCount": 953758,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780486400778",
+    "goodreadsId": "2956",
+    "cover": "https://images.gr-assets.com/books/1405973850m/2956.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Charlotte's Web",
+    "authors": [
+      "E.B. White"
+    ],
+    "firstPublishedYear": 1952,
+    "language": "English",
+    "rating": 4.15,
+    "ratingsCount": 1064521,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780064400558",
+    "goodreadsId": "24178",
+    "cover": "https://images.gr-assets.com/books/1439632243m/24178.jpg"
+  },
+  {
+    "id": 58,
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "authors": [
+      "Mark Haddon"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 3.85,
+    "ratingsCount": 867553,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9781400032716",
+    "goodreadsId": "1618",
+    "cover": "https://images.gr-assets.com/books/1479863624m/1618.jpg"
+  },
+  {
+    "id": 59,
+    "title": "The Girl on the Train",
+    "authors": [
+      "Paula Hawkins"
+    ],
+    "firstPublishedYear": 2015,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 1008778,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781594634024",
+    "goodreadsId": "22557272",
+    "cover": "https://images.gr-assets.com/books/1490903702m/22557272.jpg"
+  },
+  {
+    "id": 60,
+    "title": "The Golden Compass",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "firstPublishedYear": 1995,
+    "language": "English",
+    "rating": 3.94,
+    "ratingsCount": 953970,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780440238133",
+    "goodreadsId": "119322",
+    "cover": "https://images.gr-assets.com/books/1451271747m/119322.jpg"
+  },
+  {
+    "id": 61,
+    "title": "My Sister's Keeper",
+    "authors": [
+      "Jodi Picoult"
+    ],
+    "firstPublishedYear": 2004,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 863879,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780743454537",
+    "goodreadsId": "10917",
+    "cover": "https://images.gr-assets.com/books/1369504683m/10917.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Slaughterhouse-Five",
+    "authors": [
+      "Kurt Vonnegut Jr."
+    ],
+    "firstPublishedYear": 1969,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 846488,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780385333849",
+    "goodreadsId": "4981",
+    "cover": "https://images.gr-assets.com/books/1440319389m/4981.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Gone with the Wind",
+    "authors": [
+      "Margaret Mitchell"
+    ],
+    "firstPublishedYear": 1936,
+    "language": "English",
+    "rating": 4.28,
+    "ratingsCount": 873981,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781451635621",
+    "goodreadsId": "18405",
+    "cover": "https://images.gr-assets.com/books/1328025229m/18405.jpg"
+  },
+  {
+    "id": 64,
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.34,
+    "ratingsCount": 818742,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9781594489501",
+    "goodreadsId": "128029",
+    "cover": "https://images.gr-assets.com/books/1345958969m/128029.jpg"
+  },
+  {
+    "id": 65,
+    "title": "The Perks of Being a Wallflower",
+    "authors": [
+      "Stephen Chbosky"
+    ],
+    "firstPublishedYear": 1999,
+    "language": "English",
+    "rating": 4.21,
+    "ratingsCount": 888806,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780671027346",
+    "goodreadsId": "22628",
+    "cover": "https://images.gr-assets.com/books/1167352178m/22628.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Insurgent",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.07,
+    "ratingsCount": 836362,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780062024053",
+    "goodreadsId": "11735983",
+    "cover": "https://images.gr-assets.com/books/1325667729m/11735983.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Ender's Game",
+    "authors": [
+      "Orson Scott Card"
+    ],
+    "firstPublishedYear": 1985,
+    "language": "English",
+    "rating": 4.3,
+    "ratingsCount": 813439,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780812550702",
+    "goodreadsId": "375802",
+    "cover": "https://images.gr-assets.com/books/1408303130m/375802.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Frankenstein",
+    "authors": [
+      "Mary Shelley"
+    ],
+    "firstPublishedYear": 1818,
+    "language": "English",
+    "rating": 3.75,
+    "ratingsCount": 808589,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780486282114",
+    "goodreadsId": "18490",
+    "cover": "https://images.gr-assets.com/books/1381512375m/18490.jpg"
+  },
+  {
+    "id": 69,
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "firstPublishedYear": 1977,
+    "language": "English",
+    "rating": 4.17,
+    "ratingsCount": 791850,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780307743657",
+    "goodreadsId": "11588",
+    "cover": "https://images.gr-assets.com/books/1353277730m/11588.jpg"
+  },
+  {
+    "id": 70,
+    "title": "The Host",
+    "authors": [
+      "Stephenie Meyer"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 3.84,
+    "ratingsCount": 749780,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780316068048",
+    "goodreadsId": "1656001",
+    "cover": "https://images.gr-assets.com/books/1318009171m/1656001.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Looking for Alaska",
+    "authors": [
+      "John Green"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.09,
+    "ratingsCount": 783470,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780062208112",
+    "goodreadsId": "99561",
+    "cover": "https://images.gr-assets.com/books/1394798630m/99561.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Bridget Jones's Diary",
+    "authors": [
+      "Helen Fielding"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 3.75,
+    "ratingsCount": 736498,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780140280096",
+    "goodreadsId": "227443",
+    "cover": "https://images.gr-assets.com/books/1292060045m/227443.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Sense and Sensibility",
+    "authors": [
+      "Jane Austen"
+    ],
+    "firstPublishedYear": 1811,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 738894,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780141439662",
+    "goodreadsId": "14935",
+    "cover": "https://images.gr-assets.com/books/1397245675m/14935.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Holes",
+    "authors": [
+      "Louis Sachar"
+    ],
+    "firstPublishedYear": 1998,
+    "language": "English",
+    "rating": 3.93,
+    "ratingsCount": 747445,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780440414803",
+    "goodreadsId": "38709",
+    "cover": "https://images.gr-assets.com/books/1327781893m/38709.jpg"
+  },
+  {
+    "id": 75,
+    "title": "The Odyssey",
+    "authors": [
+      "Homer"
+    ],
+    "firstPublishedYear": "8th century BCE",
+    "language": "English",
+    "rating": 3.73,
+    "ratingsCount": 670326,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780140268867",
+    "goodreadsId": "1381",
+    "cover": "https://images.gr-assets.com/books/1390173285m/1381.jpg"
+  },
+  {
+    "id": 76,
+    "title": "The Little Prince",
+    "authors": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "firstPublishedYear": 1943,
+    "language": "English",
+    "rating": 4.28,
+    "ratingsCount": 738757,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780156012195",
+    "goodreadsId": "157993",
+    "cover": "https://images.gr-assets.com/books/1367545443m/157993.jpg"
+  },
+  {
+    "id": 77,
+    "title": "The Glass Castle",
+    "authors": [
+      "Jeannette Walls"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.24,
+    "ratingsCount": 621099,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780743247542",
+    "goodreadsId": "7445",
+    "cover": "https://images.gr-assets.com/books/1400930557m/7445.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Into the Wild",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 3.94,
+    "ratingsCount": 647684,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780385486804",
+    "goodreadsId": "1845",
+    "cover": "https://images.gr-assets.com/books/1403173986m/1845.jpg"
+  },
+  {
+    "id": 79,
+    "title": "A Tale of Two Cities",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "firstPublishedYear": 1859,
+    "language": "English",
+    "rating": 3.81,
+    "ratingsCount": 637412,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781853260391",
+    "goodreadsId": "1953",
+    "cover": "https://images.gr-assets.com/books/1344922523m/1953.jpg"
+  },
+  {
+    "id": 80,
+    "title": "The Giving Tree",
+    "authors": [
+      "Shel Silverstein"
+    ],
+    "firstPublishedYear": 1964,
+    "language": "English",
+    "rating": 4.38,
+    "ratingsCount": 702332,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780060256541",
+    "goodreadsId": "370493",
+    "cover": "https://images.gr-assets.com/books/1174210942m/370493.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Night",
+    "authors": [
+      "Elie Wiesel"
+    ],
+    "firstPublishedYear": 1958,
+    "language": "English",
+    "rating": 4.3,
+    "ratingsCount": 691231,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780374500016",
+    "goodreadsId": "1617",
+    "cover": "https://images.gr-assets.com/books/1473495285m/1617.jpg"
+  },
+  {
+    "id": 82,
+    "title": "Paper Towns",
+    "authors": [
+      "John Green"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 461311,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780061950728",
+    "goodreadsId": "6442769",
+    "cover": "https://images.gr-assets.com/books/1349013610m/6442769.jpg"
+  },
+  {
+    "id": 83,
+    "title": "The Princess Bride",
+    "authors": [
+      "William Goldman"
+    ],
+    "firstPublishedYear": 1973,
+    "language": "English",
+    "rating": 4.25,
+    "ratingsCount": 628637,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780345418265",
+    "goodreadsId": "21787",
+    "cover": "https://images.gr-assets.com/books/1327903636m/21787.jpg"
+  },
+  {
+    "id": 84,
+    "title": "The Outsiders",
+    "authors": [
+      "S.E. Hinton"
+    ],
+    "firstPublishedYear": 1967,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 659248,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780142407332",
+    "goodreadsId": "231804",
+    "cover": "https://images.gr-assets.com/books/1442129426m/231804.jpg"
+  },
+  {
+    "id": 85,
+    "title": "The Maze Runner",
+    "authors": [
+      "James Dashner"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.02,
+    "ratingsCount": 719925,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780385737944",
+    "goodreadsId": "6186357",
+    "cover": "https://images.gr-assets.com/books/1375596592m/6186357.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Freakonomics",
+    "authors": [
+      "Steven D. Levitt",
+      "Stephen J. Dubner"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 3.93,
+    "ratingsCount": 524191,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780060731335",
+    "goodreadsId": "1202",
+    "cover": "https://images.gr-assets.com/books/1327909092m/1202.jpg"
+  },
+  {
+    "id": 87,
+    "title": "The Secret Garden",
+    "authors": [
+      "Frances Hodgson Burnett"
+    ],
+    "firstPublishedYear": 1911,
+    "language": "English",
+    "rating": 4.12,
+    "ratingsCount": 639357,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780064401883",
+    "goodreadsId": "2998",
+    "cover": "https://images.gr-assets.com/books/1327873635m/2998.jpg"
+  },
+  {
+    "id": 88,
+    "title": "One Hundred Years of Solitude",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "firstPublishedYear": 1967,
+    "language": "English",
+    "rating": 4.04,
+    "ratingsCount": 490565,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780060883287",
+    "goodreadsId": "320",
+    "cover": "https://images.gr-assets.com/books/1327881361m/320.jpg"
+  },
+  {
+    "id": 89,
+    "title": "The Picture of Dorian Gray",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "firstPublishedYear": 1891,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 590014,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780141439570",
+    "goodreadsId": "5297",
+    "cover": "https://images.gr-assets.com/books/1424596966m/5297.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Fifty Shades Freed",
+    "authors": [
+      "E.L. James"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 387290,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780345803504",
+    "goodreadsId": "13536860",
+    "cover": "https://images.gr-assets.com/books/1336418837m/13536860.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Dracula",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "firstPublishedYear": 1897,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 618973,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780141439846",
+    "goodreadsId": "17245",
+    "cover": "https://images.gr-assets.com/books/1387151694m/17245.jpg"
+  },
+  {
+    "id": 92,
+    "title": "The Girl Who Played with Fire",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 4.22,
+    "ratingsCount": 563994,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780307454553",
+    "goodreadsId": "5060378",
+    "cover": "https://images.gr-assets.com/books/1351778881m/5060378.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Fifty Shades Darker",
+    "authors": [
+      "E.L. James"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 3.87,
+    "ratingsCount": 552059,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780345803498",
+    "goodreadsId": "11857408",
+    "cover": "https://images.gr-assets.com/books/1358266080m/11857408.jpg"
+  },
+  {
+    "id": 94,
+    "title": "The Poisonwood Bible",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "firstPublishedYear": 1998,
+    "language": "English",
+    "rating": 4.02,
+    "ratingsCount": 546502,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780060175408",
+    "goodreadsId": "7244",
+    "cover": "https://images.gr-assets.com/books/1412242487m/7244.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Where the Wild Things Are",
+    "authors": [
+      "Maurice Sendak"
+    ],
+    "firstPublishedYear": 1963,
+    "language": "English",
+    "rating": 4.22,
+    "ratingsCount": 620618,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780060254954",
+    "goodreadsId": "19543",
+    "cover": "https://images.gr-assets.com/books/1384434560m/19543.jpg"
+  },
+  {
+    "id": 96,
+    "title": "The Count of Monte Cristo",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "firstPublishedYear": 1844,
+    "language": "English",
+    "rating": 4.21,
+    "ratingsCount": 555822,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780140449266",
+    "goodreadsId": "7126",
+    "cover": "https://images.gr-assets.com/books/1309203605m/7126.jpg"
+  },
+  {
+    "id": 97,
+    "title": "The Road",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 3.95,
+    "ratingsCount": 504793,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780307386458",
+    "goodreadsId": "6288",
+    "cover": "https://images.gr-assets.com/books/1439197219m/6288.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Allegiant",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "firstPublishedYear": 2013,
+    "language": "English",
+    "rating": 3.63,
+    "ratingsCount": 463257,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780062024077",
+    "goodreadsId": "18710190",
+    "cover": "https://images.gr-assets.com/books/1395582745m/18710190.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Bossypants",
+    "authors": [
+      "Tina Fey"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 3.94,
+    "ratingsCount": 506250,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780751574952",
+    "goodreadsId": "9418327",
+    "cover": "https://images.gr-assets.com/books/1481509554m/9418327.jpg"
+  },
+  {
+    "id": 100,
+    "title": "A Walk to Remember",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "firstPublishedYear": 1999,
+    "language": "English",
+    "rating": 4.15,
+    "ratingsCount": 546948,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780446608953",
+    "goodreadsId": "3473",
+    "cover": "https://images.gr-assets.com/books/1385738968m/3473.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Confessions of a Shopaholic",
+    "authors": [
+      "Sophie Kinsella"
+    ],
+    "firstPublishedYear": 2000,
+    "language": "English",
+    "rating": 3.61,
+    "ratingsCount": 543658,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780385335484",
+    "goodreadsId": "9416",
+    "cover": "https://images.gr-assets.com/books/1327872404m/9416.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Les Misérables",
+    "authors": [
+      "Victor Hugo"
+    ],
+    "firstPublishedYear": 1862,
+    "language": "English",
+    "rating": 4.14,
+    "ratingsCount": 513407,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780451419439",
+    "goodreadsId": "24280",
+    "cover": "https://images.gr-assets.com/books/1411852091m/24280.jpg"
+  },
+  {
+    "id": 103,
+    "title": "A Clash of Kings",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "firstPublishedYear": 1998,
+    "language": "English",
+    "rating": 4.4,
+    "ratingsCount": 523303,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553579901",
+    "goodreadsId": "10572",
+    "cover": "https://images.gr-assets.com/books/1358254974m/10572.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Me Before You",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.27,
+    "ratingsCount": 587647,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780143130154",
+    "goodreadsId": "15507958",
+    "cover": "https://images.gr-assets.com/books/1357108762m/15507958.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Catch-22",
+    "authors": [
+      "Joseph Heller"
+    ],
+    "firstPublishedYear": 1961,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 563265,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781451626650",
+    "goodreadsId": "168668",
+    "cover": "https://images.gr-assets.com/books/1463157317m/168668.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Tuesdays with Morrie",
+    "authors": [
+      "Mitch Albom"
+    ],
+    "firstPublishedYear": 1997,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 556518,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780385484510",
+    "goodreadsId": "6900",
+    "cover": "https://images.gr-assets.com/books/1423763749m/6900.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Middlesex",
+    "authors": [
+      "Jeffrey Eugenides"
+    ],
+    "firstPublishedYear": 2002,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 488243,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780007440771",
+    "goodreadsId": "2187",
+    "cover": "https://images.gr-assets.com/books/1437029776m/2187.jpg"
+  },
+  {
+    "id": 108,
+    "title": "The Adventures of Tom Sawyer",
+    "authors": [
+      "Mark Twain"
+    ],
+    "firstPublishedYear": 1876,
+    "language": "English",
+    "rating": 3.89,
+    "ratingsCount": 555359,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780486400778",
+    "goodreadsId": "24583",
+    "cover": "https://images.gr-assets.com/books/1404811979m/24583.jpg"
+  },
+  {
+    "id": 109,
+    "title": "A Wrinkle in Time",
+    "authors": [
+      "Madeleine L'Engle"
+    ],
+    "firstPublishedYear": 1962,
+    "language": "English",
+    "rating": 4.04,
+    "ratingsCount": 615907,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780312367541",
+    "goodreadsId": "18131",
+    "cover": "https://images.gr-assets.com/books/1329061522m/18131.jpg"
+  },
+  {
+    "id": 110,
+    "title": "The Joy Luck Club",
+    "authors": [
+      "Amy Tan"
+    ],
+    "firstPublishedYear": 1989,
+    "language": "English",
+    "rating": 3.9,
+    "ratingsCount": 515090,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780143038092",
+    "goodreadsId": "7763",
+    "cover": "https://images.gr-assets.com/books/1304978653m/7763.jpg"
+  },
+  {
+    "id": 111,
+    "title": "The Handmaid's Tale",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "firstPublishedYear": 1985,
+    "language": "English",
+    "rating": 4.06,
+    "ratingsCount": 607889,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780385490818",
+    "goodreadsId": "38447",
+    "cover": "https://images.gr-assets.com/books/1498057733m/38447.jpg"
+  },
+  {
+    "id": 112,
+    "title": "The Sisterhood of the Traveling Pants",
+    "authors": [
+      "Ann Brashares"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 3.75,
+    "ratingsCount": 525706,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780385730586",
+    "goodreadsId": "452306",
+    "cover": "https://images.gr-assets.com/books/1461611233m/452306.jpg"
+  },
+  {
+    "id": 113,
+    "title": "Lolita",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "firstPublishedYear": 1955,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 469836,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780679723165",
+    "goodreadsId": "7604",
+    "cover": "https://images.gr-assets.com/books/1377756377m/7604.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Wicked",
+    "authors": [
+      "Gregory Maguire"
+    ],
+    "firstPublishedYear": 1995,
+    "language": "English",
+    "rating": 3.52,
+    "ratingsCount": 506900,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780061350962",
+    "goodreadsId": "37442",
+    "cover": "https://images.gr-assets.com/books/1437733293m/37442.jpg"
+  },
+  {
+    "id": 115,
+    "title": "The Firm",
+    "authors": [
+      "John Grisham"
+    ],
+    "firstPublishedYear": 1991,
+    "language": "English",
+    "rating": 3.99,
+    "ratingsCount": 488269,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780440241539",
+    "goodreadsId": "5358",
+    "cover": "https://images.gr-assets.com/books/1418465200m/5358.jpg"
+  },
+  {
+    "id": 116,
+    "title": "Room",
+    "authors": [
+      "Emma Donoghue"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.03,
+    "ratingsCount": 511360,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316098335",
+    "goodreadsId": "7937843",
+    "cover": "https://images.gr-assets.com/books/1344265419m/7937843.jpg"
+  },
+  {
+    "id": 117,
+    "title": "Hamlet",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "firstPublishedYear": 1600,
+    "language": "English",
+    "rating": 4.0,
+    "ratingsCount": 515820,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780743477123",
+    "goodreadsId": "1420",
+    "cover": "https://images.gr-assets.com/books/1351051208m/1420.jpg"
+  },
+  {
+    "id": 118,
+    "title": "Dune",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "firstPublishedYear": 1965,
+    "language": "English",
+    "rating": 4.19,
+    "ratingsCount": 485032,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780441013593",
+    "goodreadsId": "234225",
+    "cover": "https://images.gr-assets.com/books/1434908555m/234225.jpg"
+  },
+  {
+    "id": 119,
+    "title": "The Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "firstPublishedYear": 2000,
+    "language": "English",
+    "rating": 3.92,
+    "ratingsCount": 490504,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780316346627",
+    "goodreadsId": "2612",
+    "cover": "https://images.gr-assets.com/books/1473396980m/2612.jpg"
+  },
+  {
+    "id": 120,
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.09,
+    "ratingsCount": 560715,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9781451648539",
+    "goodreadsId": "11084145",
+    "cover": "https://images.gr-assets.com/books/1327861368m/11084145.jpg"
+  },
+  {
+    "id": 121,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "authors": [
+      "Ken Kesey"
+    ],
+    "firstPublishedYear": 1962,
+    "language": "English",
+    "rating": 4.18,
+    "ratingsCount": 491642,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780451163967",
+    "goodreadsId": "332613",
+    "cover": "https://images.gr-assets.com/books/1485308778m/332613.jpg"
+  },
+  {
+    "id": 122,
+    "title": "The Old Man and the Sea",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "firstPublishedYear": 1952,
+    "language": "English",
+    "rating": 3.73,
+    "ratingsCount": 520630,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780684830490",
+    "goodreadsId": "2165",
+    "cover": "https://images.gr-assets.com/books/1329189714m/2165.jpg"
+  },
+  {
+    "id": 123,
+    "title": "The Grapes of Wrath",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "firstPublishedYear": 1939,
+    "language": "English",
+    "rating": 3.92,
+    "ratingsCount": 322321,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780143039433",
+    "goodreadsId": "4395",
+    "cover": "https://images.gr-assets.com/books/1352912927m/4395.jpg"
+  },
+  {
+    "id": 124,
+    "title": "City of Glass",
+    "authors": [
+      "Cassandra Clare"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.34,
+    "ratingsCount": 593173,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781416914297",
+    "goodreadsId": "3777732",
+    "cover": "https://images.gr-assets.com/books/1369452339m/3777732.jpg"
+  },
+  {
+    "id": 125,
+    "title": "A Storm of Swords",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "firstPublishedYear": 2000,
+    "language": "English",
+    "rating": 4.54,
+    "ratingsCount": 469022,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553106633",
+    "goodreadsId": "62291",
+    "cover": "https://images.gr-assets.com/books/1497931121m/62291.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Divine Secrets of the Ya-Ya Sisterhood",
+    "authors": [
+      "Rebecca Wells"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 3.79,
+    "ratingsCount": 465676,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780060198138",
+    "goodreadsId": "137791",
+    "cover": "https://images.gr-assets.com/books/1408313524m/137791.jpg"
+  },
+  {
+    "id": 127,
+    "title": "Outlander",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "firstPublishedYear": 1991,
+    "language": "English",
+    "rating": 4.2,
+    "ratingsCount": 515547,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780440212560",
+    "goodreadsId": "10964",
+    "cover": "https://images.gr-assets.com/books/1402600310m/10964.jpg"
+  },
+  {
+    "id": 128,
+    "title": "The Scarlet Letter",
+    "authors": [
+      "Nathaniel Hawthorne"
+    ],
+    "firstPublishedYear": 1850,
+    "language": "English",
+    "rating": 3.37,
+    "ratingsCount": 509883,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780142437261",
+    "goodreadsId": "12296",
+    "cover": "https://images.gr-assets.com/books/1404810944m/12296.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "authors": [
+      "Ransom Riggs"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 3.89,
+    "ratingsCount": 613674,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781594746031",
+    "goodreadsId": "9460487",
+    "cover": "https://images.gr-assets.com/books/1472782916m/9460487.jpg"
+  },
+  {
+    "id": 130,
+    "title": "The Girl Who Kicked the Hornet's Nest",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.2,
+    "ratingsCount": 443951,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780307454546",
+    "goodreadsId": "6892870",
+    "cover": "https://images.gr-assets.com/books/1327708260m/6892870.jpg"
+  },
+  {
+    "id": 131,
+    "title": "The Martian",
+    "authors": [
+      "Andy Weir"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.39,
+    "ratingsCount": 423344,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780804139021",
+    "goodreadsId": "18007564",
+    "cover": "https://images.gr-assets.com/books/1413706054m/18007564.jpg"
+  },
+  {
+    "id": 132,
+    "title": "All the Light We Cannot See",
+    "authors": [
+      "Anthony Doerr"
+    ],
+    "firstPublishedYear": 2014,
+    "language": "English",
+    "rating": 4.31,
+    "ratingsCount": 470001,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781501173219",
+    "goodreadsId": "18143977",
+    "cover": "https://images.gr-assets.com/books/1451445646m/18143977.jpg"
+  },
+  {
+    "id": 133,
+    "title": "Unbroken",
+    "authors": [
+      "Laura Hillenbrand"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.4,
+    "ratingsCount": 487775,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780812974492",
+    "goodreadsId": "8664353",
+    "cover": "https://images.gr-assets.com/books/1327861115m/8664353.jpg"
+  },
+  {
+    "id": 134,
+    "title": "The Goldfinch",
+    "authors": [
+      "Donna Tartt"
+    ],
+    "firstPublishedYear": 2013,
+    "language": "English",
+    "rating": 3.87,
+    "ratingsCount": 396756,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780316055444",
+    "goodreadsId": "17333223",
+    "cover": "https://images.gr-assets.com/books/1451554970m/17333223.jpg"
+  },
+  {
+    "id": 135,
+    "title": "Thirteen Reasons Why",
+    "authors": [
+      "Jay Asher"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.02,
+    "ratingsCount": 463783,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781595141880",
+    "goodreadsId": "1217100",
+    "cover": "https://images.gr-assets.com/books/1333822506m/1217100.jpg"
+  },
+  {
+    "id": 136,
+    "title": "Girl with a Pearl Earring",
+    "authors": [
+      "Tracy Chevalier"
+    ],
+    "firstPublishedYear": 1999,
+    "language": "English",
+    "rating": 3.85,
+    "ratingsCount": 467577,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780452287020",
+    "goodreadsId": "2865",
+    "cover": "https://images.gr-assets.com/books/1327197580m/2865.jpg"
+  },
+  {
+    "id": 137,
+    "title": "If I Stay",
+    "authors": [
+      "Gayle Forman"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 3.96,
+    "ratingsCount": 503527,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780525421030",
+    "goodreadsId": "4374400",
+    "cover": "https://images.gr-assets.com/books/1347462970m/4374400.jpg"
+  },
+  {
+    "id": 138,
+    "title": "The Sea of Monsters",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 4.23,
+    "ratingsCount": 514932,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780786856862",
+    "goodreadsId": "28186",
+    "cover": "https://images.gr-assets.com/books/1400602661m/28186.jpg"
+  },
+  {
+    "id": 139,
+    "title": "Dear John",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 4.01,
+    "ratingsCount": 441062,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780446698954",
+    "goodreadsId": "5526",
+    "cover": "https://images.gr-assets.com/books/1397749854m/5526.jpg"
+  },
+  {
+    "id": 140,
+    "title": "City of Ashes",
+    "authors": [
+      "Cassandra Clare"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.21,
+    "ratingsCount": 541117,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781416914297",
+    "goodreadsId": "1582996",
+    "cover": "https://images.gr-assets.com/books/1432730356m/1582996.jpg"
+  },
+  {
+    "id": 141,
+    "title": "Macbeth",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "firstPublishedYear": 1606,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 496018,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780743477109",
+    "goodreadsId": "8852",
+    "cover": "https://images.gr-assets.com/books/1459795224m/8852.jpg"
+  },
+  {
+    "id": 142,
+    "title": "The Two Towers",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "firstPublishedYear": 1954,
+    "language": "English",
+    "rating": 4.42,
+    "ratingsCount": 480446,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780618571862",
+    "goodreadsId": "15241",
+    "cover": "https://images.gr-assets.com/books/1298415523m/15241.jpg"
+  },
+  {
+    "id": 143,
+    "title": "Something Borrowed",
+    "authors": [
+      "Emily Giffin"
+    ],
+    "firstPublishedYear": 2004,
+    "language": "English",
+    "rating": 3.83,
+    "ratingsCount": 403601,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780312321190",
+    "goodreadsId": "42156",
+    "cover": "https://images.gr-assets.com/books/1305063535m/42156.jpg"
+  },
+  {
+    "id": 144,
+    "title": "Green Eggs and Ham",
+    "authors": [
+      "Dr. Seuss"
+    ],
+    "firstPublishedYear": 1960,
+    "language": "English",
+    "rating": 4.29,
+    "ratingsCount": 457475,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780007413577",
+    "goodreadsId": "23772",
+    "cover": "https://images.gr-assets.com/books/1468680100m/23772.jpg"
+  },
+  {
+    "id": 145,
+    "title": "Charlie and the Chocolate Factory",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "firstPublishedYear": 1964,
+    "language": "English",
+    "rating": 4.1,
+    "ratingsCount": 453959,
+    "genres": [
+      "Children",
+      "Adventure"
+    ],
+    "isbn13": "9780142410318",
+    "goodreadsId": "6310",
+    "cover": "https://images.gr-assets.com/books/1309211401m/6310.jpg"
+  },
+  {
+    "id": 146,
+    "title": "The Battle of the Labyrinth",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.39,
+    "ratingsCount": 508214,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780786853043",
+    "goodreadsId": "2120932",
+    "cover": "https://images.gr-assets.com/books/1443142158m/2120932.jpg"
+  },
+  {
+    "id": 147,
+    "title": "Great Expectations",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "firstPublishedYear": 1860,
+    "language": "English",
+    "rating": 3.75,
+    "ratingsCount": 459247,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780141439563",
+    "goodreadsId": "2623",
+    "cover": "https://images.gr-assets.com/books/1327920219m/2623.jpg"
+  },
+  {
+    "id": 148,
+    "title": "The Return of the King",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "firstPublishedYear": 1955,
+    "language": "English",
+    "rating": 4.51,
+    "ratingsCount": 463959,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780618129112",
+    "goodreadsId": "18512",
+    "cover": "https://images.gr-assets.com/books/1389977161m/18512.jpg"
+  },
+  {
+    "id": 149,
+    "title": "The Stranger",
+    "authors": [
+      "Albert Camus"
+    ],
+    "firstPublishedYear": 1942,
+    "language": "English",
+    "rating": 3.96,
+    "ratingsCount": 420600,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780679720201",
+    "goodreadsId": "49552",
+    "cover": "https://images.gr-assets.com/books/1349927872m/49552.jpg"
+  },
+  {
+    "id": 150,
+    "title": "The Lost Hero",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.35,
+    "ratingsCount": 271576,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781423101505",
+    "goodreadsId": "7736182",
+    "cover": "https://images.gr-assets.com/books/1464201003m/7736182.jpg"
+  },
+  {
+    "id": 151,
+    "title": "Eleanor & Park",
+    "authors": [
+      "Rainbow Rowell"
+    ],
+    "firstPublishedYear": 2013,
+    "language": "English",
+    "rating": 4.11,
+    "ratingsCount": 514312,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9781250012579",
+    "goodreadsId": "15745753",
+    "cover": "https://images.gr-assets.com/books/1341952742m/15745753.jpg"
+  },
+  {
+    "id": 152,
+    "title": "A Feast for Crows",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.1,
+    "ratingsCount": 428186,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553582024",
+    "goodreadsId": "13497",
+    "cover": "https://images.gr-assets.com/books/1429538615m/13497.jpg"
+  },
+  {
+    "id": 153,
+    "title": "Matched",
+    "authors": [
+      "Ally Condie"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 3.68,
+    "ratingsCount": 511815,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780525423645",
+    "goodreadsId": "7735333",
+    "cover": "https://images.gr-assets.com/books/1367706191m/7735333.jpg"
+  },
+  {
+    "id": 154,
+    "title": "American Gods",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 4.11,
+    "ratingsCount": 378019,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780380973651",
+    "goodreadsId": "4407",
+    "cover": "https://images.gr-assets.com/books/1258417001m/4407.jpg"
+  },
+  {
+    "id": 155,
+    "title": "The Stand",
+    "authors": [
+      "Stephen King"
+    ],
+    "firstPublishedYear": 1978,
+    "language": "English",
+    "rating": 4.34,
+    "ratingsCount": 438832,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780307743688",
+    "goodreadsId": "149267",
+    "cover": "https://images.gr-assets.com/books/1213131305m/149267.jpg"
+  },
+  {
+    "id": 156,
+    "title": "The Last Song",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.14,
+    "ratingsCount": 424637,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "isbn13": "9780446547569",
+    "goodreadsId": "6400090",
+    "cover": "https://images.gr-assets.com/books/1286549186m/6400090.jpg"
+  },
+  {
+    "id": 157,
+    "title": "Digital Fortress",
+    "authors": [
+      "Dan Brown"
+    ],
+    "firstPublishedYear": 1998,
+    "language": "English",
+    "rating": 3.6,
+    "ratingsCount": 423019,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780312995421",
+    "goodreadsId": "11125",
+    "cover": "https://images.gr-assets.com/books/1360095966m/11125.jpg"
+  },
+  {
+    "id": 158,
+    "title": "Emma",
+    "authors": [
+      "Jane Austen"
+    ],
+    "firstPublishedYear": 1815,
+    "language": "English",
+    "rating": 3.99,
+    "ratingsCount": 459826,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780141439587",
+    "goodreadsId": "6969",
+    "cover": "https://images.gr-assets.com/books/1373627931m/6969.jpg"
+  },
+  {
+    "id": 159,
+    "title": "Anna Karenina",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "firstPublishedYear": 1877,
+    "language": "English",
+    "rating": 4.02,
+    "ratingsCount": 297472,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780143035008",
+    "goodreadsId": "15823480",
+    "cover": "https://images.gr-assets.com/books/1352422904m/15823480.jpg"
+  },
+  {
+    "id": 160,
+    "title": "A Clockwork Orange",
+    "authors": [
+      "Anthony Burgess"
+    ],
+    "firstPublishedYear": 1962,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 431195,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780393312835",
+    "goodreadsId": "227463",
+    "cover": "https://images.gr-assets.com/books/1348339306m/227463.jpg"
+  },
+  {
+    "id": 161,
+    "title": "The Shack",
+    "authors": [
+      "William Paul Young"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 3.74,
+    "ratingsCount": 419539,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780964729230",
+    "goodreadsId": "1812457",
+    "cover": "https://images.gr-assets.com/books/1344270232m/1812457.jpg"
+  },
+  {
+    "id": 162,
+    "title": "The Last Olympian",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.5,
+    "ratingsCount": 397500,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781416975005",
+    "goodreadsId": "4502507",
+    "cover": "https://images.gr-assets.com/books/1327924597m/4502507.jpg"
+  },
+  {
+    "id": 163,
+    "title": "It",
+    "authors": [
+      "Stephen King"
+    ],
+    "firstPublishedYear": 1986,
+    "language": "English",
+    "rating": 4.18,
+    "ratingsCount": 292592,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781501142970",
+    "goodreadsId": "18342",
+    "cover": "https://images.gr-assets.com/books/1309376909m/18342.jpg"
+  },
+  {
+    "id": 164,
+    "title": "Crime and Punishment",
+    "authors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "firstPublishedYear": 1866,
+    "language": "English",
+    "rating": 4.18,
+    "ratingsCount": 380903,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780486415871",
+    "goodreadsId": "7144",
+    "cover": "https://images.gr-assets.com/books/1382846449m/7144.jpg"
+  },
+  {
+    "id": 165,
+    "title": "The Bell Jar",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "firstPublishedYear": 1963,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 401605,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780060837020",
+    "goodreadsId": "6514",
+    "cover": "https://images.gr-assets.com/books/1473890514m/6514.jpg"
+  },
+  {
+    "id": 166,
+    "title": "Siddhartha",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "firstPublishedYear": 1922,
+    "language": "English",
+    "rating": 3.99,
+    "ratingsCount": 372099,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553208849",
+    "goodreadsId": "52036",
+    "cover": "https://images.gr-assets.com/books/1428715580m/52036.jpg"
+  },
+  {
+    "id": 167,
+    "title": "In Cold Blood",
+    "authors": [
+      "Truman Capote"
+    ],
+    "firstPublishedYear": 1965,
+    "language": "English",
+    "rating": 4.05,
+    "ratingsCount": 381652,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780679745587",
+    "goodreadsId": "168642",
+    "cover": "https://images.gr-assets.com/books/1424931136m/168642.jpg"
+  },
+  {
+    "id": 168,
+    "title": "Beautiful Creatures",
+    "authors": [
+      "Kami Garcia",
+      "Margaret Stohl"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 3.76,
+    "ratingsCount": 436093,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780316127446",
+    "goodreadsId": "6304335",
+    "cover": "https://images.gr-assets.com/books/1327873282m/6304335.jpg"
+  },
+  {
+    "id": 169,
+    "title": "Clockwork Angel",
+    "authors": [
+      "Cassandra Clare"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.33,
+    "ratingsCount": 490890,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9781416975861",
+    "goodreadsId": "7171637",
+    "cover": "https://images.gr-assets.com/books/1454962884m/7171637.jpg"
+  },
+  {
+    "id": 170,
+    "title": "The Night Circus",
+    "authors": [
+      "Erin Morgenstern"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.03,
+    "ratingsCount": 429543,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780307744432",
+    "goodreadsId": "9361589",
+    "cover": "https://images.gr-assets.com/books/1387124618m/9361589.jpg"
+  },
+  {
+    "id": 171,
+    "title": "The Other Boleyn Girl",
+    "authors": [
+      "Philippa Gregory"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 4.04,
+    "ratingsCount": 381080,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780007230188",
+    "goodreadsId": "37470",
+    "cover": "https://images.gr-assets.com/books/1355932638m/37470.jpg"
+  },
+  {
+    "id": 172,
+    "title": "Uglies",
+    "authors": [
+      "Scott Westerfeld"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 3.86,
+    "ratingsCount": 449073,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780689865381",
+    "goodreadsId": "24770",
+    "cover": "https://images.gr-assets.com/books/1443904172m/24770.jpg"
+  },
+  {
+    "id": 173,
+    "title": "A Dance with Dragons",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.31,
+    "ratingsCount": 365954,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780553801477",
+    "goodreadsId": "10664113",
+    "cover": "https://images.gr-assets.com/books/1327885335m/10664113.jpg"
+  },
+  {
+    "id": 174,
+    "title": "The Lord of the Rings",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "firstPublishedYear": 1954,
+    "language": "English",
+    "rating": 4.47,
+    "ratingsCount": 389054,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780618640157",
+    "goodreadsId": "33",
+    "cover": "https://images.gr-assets.com/books/1411114164m/33.jpg"
+  },
+  {
+    "id": 175,
+    "title": "Wild",
+    "authors": [
+      "Cheryl Strayed"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 3.96,
+    "ratingsCount": 379872,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780307592736",
+    "goodreadsId": "12262741",
+    "cover": "https://images.gr-assets.com/books/1453189881m/12262741.jpg"
+  },
+  {
+    "id": 176,
+    "title": "Watchmen",
+    "authors": [
+      "Alan Moore",
+      "Dave Gibbons"
+    ],
+    "firstPublishedYear": 1987,
+    "language": "English",
+    "rating": 4.35,
+    "ratingsCount": 398018,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780930289232",
+    "goodreadsId": "472331",
+    "cover": "https://images.gr-assets.com/books/1442239711m/472331.jpg"
+  },
+  {
+    "id": 177,
+    "title": "The Name of the Wind",
+    "authors": [
+      "Patrick Rothfuss"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.55,
+    "ratingsCount": 400101,
+    "genres": [
+      "Fantasy"
+    ],
+    "isbn13": "9780756404741",
+    "goodreadsId": "186074",
+    "cover": "https://images.gr-assets.com/books/1472068073m/186074.jpg"
+  },
+  {
+    "id": 178,
+    "title": "Outliers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.11,
+    "ratingsCount": 353011,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9780316017930",
+    "goodreadsId": "3228917",
+    "cover": "https://images.gr-assets.com/books/1344266315m/3228917.jpg"
+  },
+  {
+    "id": 179,
+    "title": "Moby-Dick",
+    "authors": [
+      "Herman Melville"
+    ],
+    "firstPublishedYear": 1851,
+    "language": "English",
+    "rating": 3.46,
+    "ratingsCount": 358050,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "isbn13": "9780142437247",
+    "goodreadsId": "153747",
+    "cover": "https://images.gr-assets.com/books/1327940656m/153747.jpg"
+  },
+  {
+    "id": 180,
+    "title": "The Guernsey Literary and Potato Peel Pie Society",
+    "authors": [
+      "Mary Ann Shaffer",
+      "Annie Barrows"
+    ],
+    "firstPublishedYear": 2008,
+    "language": "English",
+    "rating": 4.12,
+    "ratingsCount": 393626,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780385341004",
+    "goodreadsId": "2728527",
+    "cover": "https://images.gr-assets.com/books/1351979318m/2728527.jpg"
+  },
+  {
+    "id": 181,
+    "title": "Fight Club",
+    "authors": [
+      "Chuck Palahniuk"
+    ],
+    "firstPublishedYear": 1996,
+    "language": "English",
+    "rating": 4.2,
+    "ratingsCount": 365349,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780393327342",
+    "goodreadsId": "5759",
+    "cover": "https://images.gr-assets.com/books/1357128997m/5759.jpg"
+  },
+  {
+    "id": 182,
+    "title": "Dead Until Dark",
+    "authors": [
+      "Charlaine Harris"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 3.96,
+    "ratingsCount": 420764,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780441019335",
+    "goodreadsId": "301082",
+    "cover": "https://images.gr-assets.com/books/1468560853m/301082.jpg"
+  },
+  {
+    "id": 183,
+    "title": "Marley and Me",
+    "authors": [
+      "John Grogan"
+    ],
+    "firstPublishedYear": 2005,
+    "language": "English",
+    "rating": 4.12,
+    "ratingsCount": 367304,
+    "genres": [
+      "Historical",
+      "Drama"
+    ],
+    "isbn13": "9780812978291",
+    "goodreadsId": "12691",
+    "cover": "https://images.gr-assets.com/books/1308858322m/12691.jpg"
+  },
+  {
+    "id": 184,
+    "title": "And Then There Were None",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "firstPublishedYear": 1939,
+    "language": "English",
+    "rating": 4.23,
+    "ratingsCount": 408983,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780062073484",
+    "goodreadsId": "16299",
+    "cover": "https://images.gr-assets.com/books/1391120695m/16299.jpg"
+  },
+  {
+    "id": 185,
+    "title": "The Lost Symbol",
+    "authors": [
+      "Dan Brown"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 3.66,
+    "ratingsCount": 369428,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780385504225",
+    "goodreadsId": "6411961",
+    "cover": "https://images.gr-assets.com/books/1358274396m/6411961.jpg"
+  },
+  {
+    "id": 186,
+    "title": "Hush, Hush",
+    "authors": [
+      "Becca Fitzpatrick"
+    ],
+    "firstPublishedYear": 2009,
+    "language": "English",
+    "rating": 4.0,
+    "ratingsCount": 448166,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9781416989431",
+    "goodreadsId": "6339664",
+    "cover": "https://images.gr-assets.com/books/1358261334m/6339664.jpg"
+  },
+  {
+    "id": 187,
+    "title": "Beautiful Disaster",
+    "authors": [
+      "Jamie McGuire"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.15,
+    "ratingsCount": 418309,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9781476710797",
+    "goodreadsId": "11505797",
+    "cover": "https://images.gr-assets.com/books/1358259032m/11505797.jpg"
+  },
+  {
+    "id": 188,
+    "title": "A Christmas Carol",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "firstPublishedYear": 1843,
+    "language": "English",
+    "rating": 4.02,
+    "ratingsCount": 394540,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780486268651",
+    "goodreadsId": "5326",
+    "cover": "https://images.gr-assets.com/books/1406512317m/5326.jpg"
+  },
+  {
+    "id": 189,
+    "title": "Interview with the Vampire",
+    "authors": [
+      "Anne Rice"
+    ],
+    "firstPublishedYear": 1976,
+    "language": "English",
+    "rating": 3.97,
+    "ratingsCount": 372566,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780345337665",
+    "goodreadsId": "43763",
+    "cover": "https://images.gr-assets.com/books/1380631642m/43763.jpg"
+  },
+  {
+    "id": 190,
+    "title": "The Selection",
+    "authors": [
+      "Kiera Cass"
+    ],
+    "firstPublishedYear": 2012,
+    "language": "English",
+    "rating": 4.15,
+    "ratingsCount": 505340,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780062059932",
+    "goodreadsId": "10507293",
+    "cover": "https://images.gr-assets.com/books/1322103400m/10507293.jpg"
+  },
+  {
+    "id": 191,
+    "title": "One for the Money",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "firstPublishedYear": 1994,
+    "language": "English",
+    "rating": 4.03,
+    "ratingsCount": 391007,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780312983864",
+    "goodreadsId": "6853",
+    "cover": "https://images.gr-assets.com/books/1316730230m/6853.jpg"
+  },
+  {
+    "id": 192,
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": [
+      "Rebecca Skloot"
+    ],
+    "firstPublishedYear": 2010,
+    "language": "English",
+    "rating": 4.04,
+    "ratingsCount": 377249,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "isbn13": "9781400052189",
+    "goodreadsId": "6493208",
+    "cover": "https://images.gr-assets.com/books/1327878144m/6493208.jpg"
+  },
+  {
+    "id": 193,
+    "title": "The Silence of the Lambs",
+    "authors": [
+      "Thomas Harris"
+    ],
+    "firstPublishedYear": 1988,
+    "language": "English",
+    "rating": 4.14,
+    "ratingsCount": 351107,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780312924584",
+    "goodreadsId": "23807",
+    "cover": "https://images.gr-assets.com/books/1390426249m/23807.jpg"
+  },
+  {
+    "id": 194,
+    "title": "Vampire Academy",
+    "authors": [
+      "Richelle Mead"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.14,
+    "ratingsCount": 248283,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9781595808504",
+    "goodreadsId": "345627",
+    "cover": "https://images.gr-assets.com/books/1361098973m/345627.jpg"
+  },
+  {
+    "id": 195,
+    "title": "Atonement",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "firstPublishedYear": 2001,
+    "language": "English",
+    "rating": 3.88,
+    "ratingsCount": 347006,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "isbn13": "9780385721790",
+    "goodreadsId": "6867",
+    "cover": "https://images.gr-assets.com/books/1320449708m/6867.jpg"
+  },
+  {
+    "id": 196,
+    "title": "The Metamorphosis",
+    "authors": [
+      "Franz Kafka"
+    ],
+    "firstPublishedYear": 1915,
+    "language": "English",
+    "rating": 3.78,
+    "ratingsCount": 364933,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780553213690",
+    "goodreadsId": "485894",
+    "cover": "https://images.gr-assets.com/books/1359061917m/485894.jpg"
+  },
+  {
+    "id": 197,
+    "title": "The Titan's Curse",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "firstPublishedYear": 2007,
+    "language": "English",
+    "rating": 4.33,
+    "ratingsCount": 446668,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780786856862",
+    "goodreadsId": "561456",
+    "cover": "https://images.gr-assets.com/books/1361038385m/561456.jpg"
+  },
+  {
+    "id": 198,
+    "title": "Ready Player One",
+    "authors": [
+      "Ernest Cline"
+    ],
+    "firstPublishedYear": 2011,
+    "language": "English",
+    "rating": 4.31,
+    "ratingsCount": 349423,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "isbn13": "9780307887443",
+    "goodreadsId": "9969571",
+    "cover": "https://images.gr-assets.com/books/1500930947m/9969571.jpg"
+  },
+  {
+    "id": 199,
+    "title": "The Art of Racing in the Rain",
+    "authors": [
+      "Garth Stein"
+    ],
+    "firstPublishedYear": 2006,
+    "language": "English",
+    "rating": 4.19,
+    "ratingsCount": 327409,
+    "genres": [
+      "Fiction"
+    ],
+    "isbn13": "9780061537936",
+    "goodreadsId": "3153910",
+    "cover": "https://images.gr-assets.com/books/1377206302m/3153910.jpg"
+  },
+  {
+    "id": 200,
+    "title": "The Devil in the White City",
+    "authors": [
+      "Erik Larson"
+    ],
+    "firstPublishedYear": 2003,
+    "language": "English",
+    "rating": 3.98,
+    "ratingsCount": 309385,
+    "genres": [
+      "Horror"
+    ],
+    "isbn13": "9780375725609",
+    "goodreadsId": "21996",
+    "cover": "https://images.gr-assets.com/books/1312066724m/21996.jpg"
+  },
+  {
+      "id": 201,
+      "title": "Rich Dad Poor Dad",
+      "authors": ["Robert T. Kiyosaki", "Sharon L. Lechter"],
+      "firstPublishedYear": 1997,
+      "language": "English",
+      "rating": 4.0,
+      "ratingsCount": 500000,
+      "genres": ["Non-Fiction", "Personal Finance", "Self-Help"],
+      "isbn13": "9781612680002",
+      "goodreadsId": "69571",
+      "cover": "https://covers.openlibrary.org/isbn/9781612680002-L.jpg"
+    },
+    {
+      "id": 202,
+      "title": "The Alchemist",
+      "authors": ["Paulo Coelho"],
+      "firstPublishedYear": 1988,
+      "language": "English",
+      "rating": 3.9,
+      "ratingsCount": 3000000,
+      "genres": ["Adventure", "Fantasy", "Classic", "Literary Fiction"],
+      "isbn13": "9780062315007",
+      "goodreadsId": "865",
+      "cover": "https://covers.openlibrary.org/isbn/9780062315007-L.jpg"
+    },
+    {
+      "id": 203,
+      "title": "Atomic Habits",
+      "authors": ["James Clear"],
+      "firstPublishedYear": 2018,
+      "language": "English",
+      "rating": 4.3,
+      "ratingsCount": 1000000,
+      "genres": ["Non-Fiction", "Self-Help"],
+      "isbn13": "9780735211292",
+      "goodreadsId": "40121378",
+      "cover": "https://covers.openlibrary.org/isbn/9780735211292-L.jpg"
+    },
+    {
+      "id": 204,
+      "title": "The Power of Now",
+      "authors": ["Eckhart Tolle"],
+      "firstPublishedYear": 1997,
+      "language": "English",
+      "rating": 4.1,
+      "ratingsCount": 350000,
+      "genres": ["Non-Fiction", "Self-Help"],
+      "isbn13": "9781577314806",
+      "goodreadsId": "6708",
+      "cover": "https://covers.openlibrary.org/isbn/9781577314806-L.jpg"
+    },
+    {
+      "id": 205,
+      "title": "Think and Grow Rich",
+      "authors": ["Napoleon Hill"],
+      "firstPublishedYear": 1937,
+      "language": "English",
+      "rating": 4.2,
+      "ratingsCount": 300000,
+      "genres": ["Non-Fiction", "Self-Help", "Classic"],
+      "isbn13": "9781585424337",
+      "goodreadsId": "30186948",
+      "cover": "https://covers.openlibrary.org/isbn/9781585424337-L.jpg"
+    },
+    {
+      "id": 206,
+      "title": "The Book Thief",
+      "authors": ["Markus Zusak"],
+      "firstPublishedYear": 2005,
+      "language": "English",
+      "rating": 4.4,
+      "ratingsCount": 2500000,
+      "genres": ["Historical", "Drama", "Literary Fiction"],
+      "isbn13": "9780375842207",
+      "goodreadsId": "19063",
+      "cover": "https://covers.openlibrary.org/isbn/9780375842207-L.jpg"
+    },
+    {
+      "id": 207,
+      "title": "The Little Prince",
+      "authors": ["Antoine de Saint-Exupéry"],
+      "firstPublishedYear": 1943,
+      "language": "English",
+      "rating": 4.3,
+      "ratingsCount": 2000000,
+      "genres": ["Classic", "Children", "Fantasy"],
+      "isbn13": "9780156012195",
+      "goodreadsId": "157993",
+      "cover": "https://covers.openlibrary.org/isbn/9780156012195-L.jpg"
+    },
+    {
+      "id": 208,
+      "title": "The Picture of Dorian Gray",
+      "authors": ["Oscar Wilde"],
+      "firstPublishedYear": 1890,
+      "language": "English",
+      "rating": 4.1,
+      "ratingsCount": 1200000,
+      "genres": ["Classic", "Horror", "Literary Fiction"],
+      "isbn13": "9780141439570",
+      "goodreadsId": "5297",
+      "cover": "https://covers.openlibrary.org/isbn/9780141439570-L.jpg"
+    },
+    {
+      "id": 209,
+      "title": "The Count of Monte Cristo",
+      "authors": ["Alexandre Dumas"],
+      "firstPublishedYear": 1844,
+      "language": "English",
+      "rating": 4.3,
+      "ratingsCount": 900000,
+      "genres": ["Classic", "Adventure", "Historical", "Drama"],
+      "isbn13": "9780140449266",
+      "goodreadsId": "7126",
+      "cover": "https://covers.openlibrary.org/isbn/9780140449266-L.jpg"
+    },
+    {
+      "id": 210,
+      "title": "The Brothers Karamazov",
+      "authors": ["Fyodor Dostoevsky"],
+      "firstPublishedYear": 1880,
+      "language": "English",
+      "rating": 4.4,
+      "ratingsCount": 500000,
+      "genres": ["Classic", "Drama", "Literary Fiction"],
+      "isbn13": "9780374528379",
+      "goodreadsId": "4934",
+      "cover": "https://covers.openlibrary.org/isbn/9780374528379-L.jpg"
+    }
+]
