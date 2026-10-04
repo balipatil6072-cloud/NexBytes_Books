@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Discovery </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header >
+    <h1> 📚Explore Books</h1>
+    <button class="theme-toggle-btn" onclick="toggleTheme()">Dark / Light Mode</button>
+  </header>
+
+  <div class="container">
+    <!-- Search Inputs -->
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search book by title, author, or genre..." oninput="searchBooks()" onkeypress="handleKeyPress(event)">
+      <button class="primary-btn" onclick="searchBooks()">Search</button>
+    </div>
+
+    <!-- Filters & Extra Features -->
+    <div class="filters-container">
+      <select id="sortSelect" onchange="sortResults()">
+        <option value="default">Sort By...</option>
+        <option value="year-asc">Publish Year (Oldest First)</option>
+        <option value="year-desc">Publish Year (Newest First)</option>
+        <option value="rating-desc">Rating (Highest First)</option>
+      </select>
+
+      <button onclick="toggleFavoritesFilter()" id="favFilterBtn">Show Favorites</button>
+    </div>
+
+    <!-- Results Grid -->
+    <div id="results" class="book-grid"></div>
+  </div>
+
+  <!-- Book Details Modal -->
+  <div id="bookModal" class="modal">
+    <div class="modal-content">
+      <button class="close-btn" onclick="closeModal()">&times;</button>
+      <img id="modalCover" src="" alt="Book Cover">
+      <div class="modal-details">
+        <h2 id="modalTitle"></h2>
+        <p><strong>Author(s):</strong> <span id="modalAuthor"></span></p>
+        <p><strong>First Published:</strong> <span id="modalYear"></span></p>
+        <p><strong>Rating:</strong> <span id="modalRating"></span></p>
+        <p><strong>Genres:</strong> <span id="modalSubjects"></span></p>
+        <p><strong>ISBN-13:</strong> <span id="modalIsbn"></span></p>
+        <p><strong>Language:</strong> <span id="modalLanguage"></span></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
